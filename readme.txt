@@ -6,4 +6,4 @@ branch nevim
 rebase
 aaaaaaaaaaaaaaaaaaa
 
-gitignore jozo
+uprava z githubu
