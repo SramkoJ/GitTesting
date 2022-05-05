@@ -1,5 +1,1 @@
-# GitTesting
-sno
-nie
-mozno
-odjajôlda
+menim dokument
