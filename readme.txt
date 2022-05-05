@@ -1,1 +1,3 @@
 menim dokument
+ano
+nie
