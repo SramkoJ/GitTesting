@@ -5,3 +5,5 @@ ano pocuvam
 branch nevim
 rebase
 aaaaaaaaaaaaaaaaaaa
+
+gitignore jozo
