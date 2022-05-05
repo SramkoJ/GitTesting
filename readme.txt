@@ -1,2 +1,1 @@
-prazdne
-ano pocuvam
+menim dokument
